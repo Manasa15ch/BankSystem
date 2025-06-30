@@ -38,5 +38,4 @@ This is a simple **Java-based Bank Management System** that runs in the console.
 
 ---
 
-## 📦 File Structure
 
